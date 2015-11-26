@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="GOC_Csharp/GOC_Csharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GOC_Csharp/Program.cs">
+    <Files>
+      <File FileName="GOC_Csharp/Program.cs" Line="33" Column="5" />
+      <File FileName="GOC_Csharp/Position.cs" Line="1" Column="1" />
+      <File FileName="GOC_Csharp/Object.cs" Line="1" Column="1" />
+      <File FileName="GOC_Csharp/Block.cs" Line="1" Column="1" />
+      <File FileName="GOC_Csharp/Level.cs" Line="253" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
