@@ -1,0 +1,22 @@
+# Version: 2.4.0.109 (cycle6: 815e5d6)
+# [first argument, ignore] # /Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/2.4.0.109/bin/mmp \
+	/verbose \
+	/debug \
+	/output:/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/bin/Debug/ \
+	/name:GOC \
+	/profile:Xamarin.Mac \
+	/arch:x86_64 \
+	/sgen \
+	/new-refcount \
+	/profiling \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/bin/Debug/GOC.exe \
+	/sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Debug/mmp-cache \
