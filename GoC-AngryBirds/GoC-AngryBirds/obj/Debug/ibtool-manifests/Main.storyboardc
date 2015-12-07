@@ -5,7 +5,23 @@
 	<key>com.apple.ibtool.document.errors</key>
 	<dict/>
 	<key>com.apple.ibtool.document.notices</key>
-	<dict/>
+	<dict>
+		<key>jIV-zE-XUQ</key>
+		<array>
+			<dict>
+				<key>affected-objects</key>
+				<array>
+					<string>jIV-zE-XUQ</string>
+				</array>
+				<key>message</key>
+				<string>View is clipping its content</string>
+				<key>type</key>
+				<string>IBClippedContent</string>
+				<key>type-value</key>
+				<integer>13</integer>
+			</dict>
+		</array>
+	</dict>
 	<key>com.apple.ibtool.document.warnings</key>
 	<dict/>
 </dict>

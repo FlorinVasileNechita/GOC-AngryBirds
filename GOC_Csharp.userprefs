@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="GOC_Csharp/GOC_Csharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GOC_Csharp/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GOC_Csharp/Position.cs">
     <Files>
-      <File FileName="GOC_Csharp/Program.cs" Line="33" Column="5" />
+      <File FileName="GOC_Csharp/Program.cs" Line="1" Column="1" />
       <File FileName="GOC_Csharp/Position.cs" Line="1" Column="1" />
       <File FileName="GOC_Csharp/Object.cs" Line="1" Column="1" />
       <File FileName="GOC_Csharp/Block.cs" Line="1" Column="1" />

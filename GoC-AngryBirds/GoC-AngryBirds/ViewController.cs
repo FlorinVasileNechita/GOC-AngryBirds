@@ -7,6 +7,8 @@ namespace GoCAngryBirds
 {
 	public partial class ViewController : NSViewController
 	{
+		
+
 		public ViewController (IntPtr handle) : base (handle)
 		{
 		}
@@ -15,7 +17,8 @@ namespace GoCAngryBirds
 		{
 			base.ViewDidLoad ();
 
-			// Do any additional setup after loading the view.
+			pathField.StringValue = "~/";
+
 		}
 
 		public override NSObject RepresentedObject {

@@ -1,0 +1,10 @@
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/ibtool-manifests/Main.storyboardc
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/ibtool/Main.storyboardc/Info.plist
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/ibtool/Main.storyboardc/MainMenu.nib
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/bin/Release/GOC.exe.mdb
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/bin/Release/GOC.exe
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/GOC.exe
+/Users/eduardruzsa/GitHub/GOC_Csharp/GoC-AngryBirds/GoC-AngryBirds/obj/Release/GOC.exe.mdb
