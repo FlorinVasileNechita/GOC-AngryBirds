@@ -16,8 +16,8 @@ namespace GoCAngryBirds
 		AppKit.NSTextField pathField { get; set; }
 
 		[Action ("pathButton:")]
-		partial void pathButton (Foundation.NSObject sender);
-		
+		partial void pathButton (AppKit.NSButton sender);
+
 		void ReleaseDesignerOutlets ()
 		{
 			if (pathField != null) {

@@ -1,0 +1,5 @@
+Y:\GitHub\GOC_Csharp\GOC_Csharp\obj\x86\Debug\GOC_Csharp.exe
+Y:\GitHub\GOC_Csharp\GOC_Csharp\bin\Debug\GOC_Csharp.exe
+Y:\GitHub\GOC_Csharp\GOC_Csharp\bin\Debug\GOC_Csharp.pdb
+Y:\GitHub\GOC_Csharp\GOC_Csharp\obj\x86\Debug\GOC_Csharp.csprojResolveAssemblyReference.cache
+Y:\GitHub\GOC_Csharp\GOC_Csharp\obj\x86\Debug\GOC_Csharp.pdb

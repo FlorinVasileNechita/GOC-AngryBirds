@@ -30,8 +30,9 @@ namespace gameofcodes
 				Console.WriteLine ("########################################################################");
 				Console.WriteLine ();
 				Console.WriteLine ();
-
-			}
+                Console.WriteLine("Level "+ i + " Finished Execution. Input any number to continue, 0 to exit.");
+                if(Console.ReadLine() == "0")   break;
+            }
 		}
 	}
 }
