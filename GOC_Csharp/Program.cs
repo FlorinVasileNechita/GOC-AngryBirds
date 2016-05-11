@@ -17,7 +17,7 @@ namespace gameofcodes
             Fisierul de intrare este in bin>debug>leveli.txt
             unde i este numarul hartii ( > 0)
 
-			*/
+			*/ 
 
 			for (int i = 1; i <= NumberOfLevels; i++) {
 				Console.WriteLine ("Started Level " + i);
